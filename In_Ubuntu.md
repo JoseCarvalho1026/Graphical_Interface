@@ -1,4 +1,4 @@
-# Graphical environment in Ubuntu
+# Graphical Interface in Ubuntu
 
 ### Update and Upgrade
 
@@ -8,7 +8,7 @@
 
 ◻️ `sudo apt install -y xfce4 xfce4-goodies`
 
-### Install the Graphical Environment and Browser
+### Install the Graphical Interface and Browser
 
 ◻️ `sudo apt install -y xrdp chromium-browser`
 
