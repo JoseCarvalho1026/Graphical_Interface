@@ -1,18 +1,18 @@
 # Graphical Interface in Ubuntu
 
-### Update and Upgrade
+### Update and Upgrade.
 
 ◻️ `sudo apt update -y && sudo apt upgrade -y`
 
-### Install Additional Software
+### Install Additional Software.
 
 ◻️ `sudo apt install -y xfce4 xfce4-goodies`
 
-### Install the Graphical Interface and Browser
+### Install the Graphical Interface and Browser.
 
 ◻️ `sudo apt install -y xrdp chromium-browser`
 
-### Add Users
+### Add Users.
 (Optional, because there is already a user. The password can be changed.)
 
 ◻️ `sudo adduser xrdp ssl-cert`
