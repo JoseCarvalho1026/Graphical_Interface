@@ -21,8 +21,7 @@
 ◻️ `sudo bash -c 'echo PREFERRED=/usr/bin/mate-session > /etc/sysconfig/desktop'`
 
 ### So that only one user has Graphic Interface.
-
-#### Exit the root
+Exit the root
 
 ◻️ `adduser user`
 
