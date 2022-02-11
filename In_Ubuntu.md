@@ -20,7 +20,7 @@
 
 ◻️ `login user`
 
-◻️ `echo xfce4-session > ~/.xsession` (In case you are in "super user", you should type `exit`)
+◻️ `echo xfce4-session > ~/.xsession` (In case you are in "root", you should type `exit`)
 
 ### Change the password that already exists.
 
