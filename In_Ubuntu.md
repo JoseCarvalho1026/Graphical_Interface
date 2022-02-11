@@ -12,7 +12,8 @@
 
 ◻️ `sudo apt install -y xrdp chromium-browser`
 
-### Add Users (Optional, because there is already a user. The password can be changed.)
+### Add Users
+(Optional, because there is already a user. The password can be changed.)
 
 ◻️ `sudo adduser xrdp ssl-cert`
 
