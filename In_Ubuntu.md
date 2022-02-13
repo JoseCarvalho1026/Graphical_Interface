@@ -2,27 +2,27 @@
 
 ### Update and Upgrade.
 
-◻️ `sudo apt update -y && sudo apt upgrade -y`
+◻️ `sudo apt update -y && sudo apt upgrade -y` .
 
 ### Install Additional Software.
 
-◻️ `sudo apt install -y xfce4 xfce4-goodies`
+◻️ `sudo apt install -y xfce4 xfce4-goodies` .
 
 ### Install the Graphical Interface and Browser.
 
-◻️ `sudo apt install -y xrdp chromium-browser`
+◻️ `sudo apt install -y xrdp chromium-browser` .
 
 ### Add Users.
 (Optional, because there is already a user. The password can be changed.)
 
-◻️ `sudo adduser xrdp ssl-cert`
+◻️ `sudo adduser xrdp ssl-cert` ;
 
-◻️ `sudo adduser user`
+◻️ `sudo adduser user` ;
 
-◻️ `login user`
+◻️ `login user` ;
 
-◻️ `echo xfce4-session > ~/.xsession` (In case you are in "root", you should type `exit`)
+◻️ `echo xfce4-session > ~/.xsession` (In case you are in "root", you should type `exit`) .
 
 ### Change the password that already exists.
 
-◻️ `sudo passwd ubuntu`
+◻️ `sudo passwd ubuntu` .
