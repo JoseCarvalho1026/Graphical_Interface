@@ -16,11 +16,11 @@
 
 ◻️ `systemctl enable --now xrdp` .
 
-### So that every users have Graphic Interface.
+### So that every users have Graphical Interface.
 
 ◻️ `sudo bash -c 'echo PREFERRED=/usr/bin/mate-session > /etc/sysconfig/desktop'` .
 
-### So that only one user has Graphic Interface.
+### So that only one user has Graphical Interface.
 Exit the root:
 
 ◻️ `adduser user` ;
