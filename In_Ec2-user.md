@@ -2,11 +2,11 @@
 
 ### Update.
 
-◻️ `sudo yum update` .
+◻️ `sudo yum update -y` .
 
 ### Install Additional Software.
 
-◻️ `sudo amazon-linux-extras install epel` .
+◻️ `sudo amazon-linux-extras install epel -y` .
 
 ### Install the Graphical Interface and Browser.
 
